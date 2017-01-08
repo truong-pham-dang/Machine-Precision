@@ -1,0 +1,3 @@
+icl -c main.cpp
+ifort main.obj testF.f
+main.exe
